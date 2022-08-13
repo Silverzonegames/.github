@@ -1,5 +1,5 @@
 ## Silverzone Oy
-Silverzone is a finnish indie game studio. We do a lot of programming and digital desing.
+Silverzone is a finnish indie game studio. We do a lot of programming and digital design.
 If you want to contribute, please see .github/contribution-guide and find a project you want to commit to.
 We are planning to make libraries and add-ins for other developers and consumers in general.
 
