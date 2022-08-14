@@ -1,5 +1,5 @@
 # Silverzone Oy
-Silverzone is a finnish indie game studio. We love to make and play video games, and everything related to them. We have a good skillset in 2D and 3D games, programming, storywriting and world design.
+Silverzone is a Finnish indie game studio. We love to make and play video games, and everything related to them. We have a good skillset in 2D and 3D games, programming, story writing and world design.
 
 ## Community hangout
 Join us on [Discord](https://discord.com/https://discord.gg/C42UczVmWm)
