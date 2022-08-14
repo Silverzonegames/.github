@@ -1,12 +1,19 @@
-## Silverzone Oy
-Silverzone is a finnish indie game studio. We do a lot of programming and digital design.
-If you want to contribute, please see .github/contribution-guide and find a project you want to commit to.
-We are planning to make libraries and add-ins for other developers and consumers in general.
+# Silverzone Oy
+Silverzone is a finnish indie game studio. We love to make and play video games, and everything related to them. We have a good skillset in 2D and 3D games, programming, storywriting and world design.
 
-# Community hangout
-- Silverzone's Discord server: https://discord.com/https://discord.gg/C42UczVmWm
-- Silverzone's website: https://silverzone.co
+## Community hangout
+Join us on [Discord](https://discord.com/https://discord.gg/C42UczVmWm)
+## Twitch and YouTube channels
+[Youtube](https://www.youtube.com/channel/UC0gvQWNzi6BDHJ53me86i_w) <br>
+[Twitch](https://www.twitch.tv/silverzonedevs)
 
+## Website
+[Website](https://silverzone.co)
+
+##Some fun facts about us
+>Our CEO and Lead Developer @slimerplanet is the only one who knows how to program video games <br>
+>We have no actual schedule <br>
+>George exceeds himself every time. Kudos to him
 <!--
 
 **Here are some ideas to get you started:**
