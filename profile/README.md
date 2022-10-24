@@ -10,10 +10,6 @@ Join us on [Discord](https://discord.gg/ggjnDFQ7e8)
 ## Website
 [Website](https://silverzone.co)
 
-## Some fun facts about us
->Our CEO and Lead Developer @slimerplanet is the only one who knows how to program video games <br>
->We have no actual schedule <br>
->George exceeds himself every time. Kudos to him
 <!--
 
 **Here are some ideas to get you started:**
