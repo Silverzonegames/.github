@@ -8,7 +8,7 @@ Join us on [Discord](https://discord.gg/ggjnDFQ7e8)
 [Twitch](https://www.twitch.tv/silverzonedevs)
 
 ## Website
-[Website](https://silverzone.co)
+[Website](https://silverzonegames.com)
 
 <!--
 
