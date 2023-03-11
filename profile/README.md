@@ -5,7 +5,7 @@ Silverzone is a Finnish indie game studio. We love to make and play video games,
 Join us on [Discord](https://discord.gg/ggjnDFQ7e8)
 ## Twitch and YouTube channels
 [Youtube](https://www.youtube.com/@silverzonegames) <br>
-[Twitch](https://www.twitch.tv/silverzonedevs)
+[Twitch](https://www.twitch.tv/silverzonegames)
 
 ## Website
 [Website](https://silverzonegames.com)
