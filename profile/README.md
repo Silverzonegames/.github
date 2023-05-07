@@ -10,6 +10,8 @@ Join us on [Discord](https://discord.gg/ggjnDFQ7e8)
 ## Website
 [Website](https://silverzonegames.com)
 
+## For more information, please check both [Silverzonegames/docs](https://github.com/Silverzonegames/docs) and this repository.
+
 <!--
 
 **Here are some ideas to get you started:**
