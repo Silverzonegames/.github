@@ -22,3 +22,9 @@ Join us on [Discord](https://discord.gg/ggjnDFQ7e8)
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# Official sources of information regarding Silverzone Oy
+
+All information about the company is only provided in this GitHub repository, the Documentation repository and tye company's website.
+
+If you are a business partner, the Finnish patent and registry admimistration is the authoritative source for all things related to corporate representation and current officers.
