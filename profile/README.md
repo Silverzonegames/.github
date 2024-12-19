@@ -1,4 +1,4 @@
-# Silverzone Oy
+# Silverzone Interactive Oy
 Silverzone is a Finnish indie game studio. We love to make and play video games, and everything related to them. We have a good skillset in 2D and 3D games, programming, story writing and world design.
 
 ## Community hangout
@@ -23,7 +23,7 @@ Join us on [Discord](https://discord.gg/ggjnDFQ7e8)
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Official sources of information regarding Silverzone Oy
+# Official sources of information regarding Silverzone Interactive Oy
 
 All information about the company is only provided in this GitHub repository, the Documentation repository and the company's website.
 
